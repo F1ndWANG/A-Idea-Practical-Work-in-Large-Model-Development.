@@ -2,7 +2,7 @@
 
 #### （1）基础环境的安装
 
-- ##### 安装 Node.js （https://nodejs.org/en）
+- ##### 安装 Node.js （https://nodejs.org/en/download）
 
 - ##### 安装 OpenClaw（npm i -g openclaw）
 
@@ -125,6 +125,7 @@ npm install -g @m1heng-clawd/feishu
 
 
 由于未添加各种skills，后续可以通过配置，得到例如每日新闻的功能。
+
 
 
 
