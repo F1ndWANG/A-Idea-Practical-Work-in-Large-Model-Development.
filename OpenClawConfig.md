@@ -57,6 +57,7 @@
 ```
 npm install -g @m1heng-clawd/feishu
 # 将~\AppData\Roaming\npm\node_modules\@m1heng-clawd\下的feishu 复制到~\.openclaw\extensions目录下（需要先创建extensions文件夹）
+# 如果~\AppData\Roaming\npm\node_modules\@m1heng-clawd\找不到，可能是在nodejs安装目录下。
 ```
 
 然后就可以进行飞书后续配置了，配置见下：
@@ -94,7 +95,7 @@ npm install -g @m1heng-clawd/feishu
 
 ![1772442603909](./assets/1772442603909.png)
 
-!1772442656818](./assets/1772442656818.png)
+![1772442656818](./assets/1772442656818.png)
 
 ![1772442746347](./assets/1772442746347.png)
 
@@ -124,5 +125,6 @@ npm install -g @m1heng-clawd/feishu
 
 
 由于未添加各种skills，后续可以通过配置，得到例如每日新闻的功能。
+
 
 
