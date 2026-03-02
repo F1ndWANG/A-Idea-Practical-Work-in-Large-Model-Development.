@@ -12,7 +12,7 @@
 
 ① 先以管理员的方式打开powershell
 
-![1772440515630](D:\OneDrive\Desktop\OpenClawConfig.assets\1772440515630.png)
+![1772440515630](.\assets\1772440515630.png)
 
 ② 输入 openclaw onboard
 
@@ -121,5 +121,6 @@ npm install -g @m1heng-clawd/feishu
 然后在飞书进行交互即可。
 
 ![1772443145257](D:\OneDrive\Desktop\OpenClawConfig.assets\1772443145257.png)
+
 
 由于未添加各种skills，后续可以通过配置，得到例如每日新闻的功能。
